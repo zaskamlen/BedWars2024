@@ -1,0 +1,10 @@
+name: VimeBedWars
+version: '${project.version}'
+main: com.vimebedwars.VimeBedWars
+commands:
+  bedwars:
+    description: Основная команда
+    aliases:
+      - bw
+      - бедварс
+      - бв
